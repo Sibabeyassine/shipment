@@ -1,0 +1,36 @@
+[
+  {
+    "eventDateTime": "2022-08-24T09:27:20.406Z",
+    "shipment": {
+      "status": { "shipmentIsDelayed": 0, "shipmentException": 1 }
+    },
+    "eventPosition": {
+      "status": "PICK UP SCHEDULE",
+      "comments": "Lorem ipsum dolor",
+      "city": "NOUAKCHOTT",
+      "country": "MR"
+    }
+  },
+  {
+    "eventDateTime": "2022-08-24T11:54:20.407Z",
+    "shipment": { "status": { "shipmentIsDelayed": 0 } },
+    "eventPosition": {
+      "status": "IN TRANSIT",
+      "comments": "Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolor",
+      "city": "NOUAKCHOTT",
+      "country": "MR"
+    }
+  },
+  {
+    "eventDateTime": "2022-08-24T11:54:20.407Z",
+    "shipment": {
+      "status": { "shipmentIsDelayed": 0, "shipmentException": 1 }
+    },
+    "eventPosition": {
+      "status": "IN TRANSIT",
+      "comments": "Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolor",
+      "city": "NOUAKCHOTT",
+      "country": "MR"
+    }
+  }
+]

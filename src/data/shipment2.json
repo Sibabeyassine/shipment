@@ -1,0 +1,22 @@
+[
+  {
+    "eventDateTime": "2022-08-24T09:37:13.504Z",
+    "shipment": { "satus": { "shipmentIsDelayed": 1 } },
+    "eventPosition": {
+      "status": "IN TRANSIT",
+      "comments": "",
+      "city": "DAKAR",
+      "country": "SN"
+    }
+  },
+  {
+    "eventDateTime": "2022-08-24T19:37:13.504Z",
+    "shipment": { "satus": { "shipmentIsDelayed": 1 } },
+    "eventPosition": {
+      "status": "PICK UP DELAYED",
+      "comments": "Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolor",
+      "city": "KINSHASA",
+      "country": "CD"
+    }
+  }
+]
